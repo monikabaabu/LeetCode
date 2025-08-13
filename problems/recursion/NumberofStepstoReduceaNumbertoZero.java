@@ -1,4 +1,4 @@
-class Solution {
+class Solution  {
     static int steps(int n, int c ){
         if(n==0){
             return c;
