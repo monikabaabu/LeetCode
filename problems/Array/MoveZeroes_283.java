@@ -12,6 +12,4 @@ class Solution {
             nums[j]=0;
         }
     }
-
-
 }
